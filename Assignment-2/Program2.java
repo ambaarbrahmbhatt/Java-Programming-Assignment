@@ -1,3 +1,6 @@
+//Program 2:
+//Producer–Consumer problem using synchronization and inter-thread communication
+
 class SharedBuffer {
     private int data;
     private boolean hasData = false;
